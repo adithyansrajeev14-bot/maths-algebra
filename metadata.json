@@ -1,0 +1,6 @@
+{
+  "name": "Linear Algebra Revision Sheet",
+  "description": "Comprehensive interactive revision sheet for Linear Algebra covering systems of equations, Cramer's rule, vector spaces, LU decomposition, eigenvalues, and quadratic forms with progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
